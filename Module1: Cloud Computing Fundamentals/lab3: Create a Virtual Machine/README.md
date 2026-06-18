@@ -1,4 +1,4 @@
-# Create a Virtual Machine (GSP001)
+# Create a Virtual Machine
 
 ## Objective
 
