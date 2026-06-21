@@ -35,10 +35,6 @@ Each folder contains lab work organized by module. Every lab includes:
 * Results and outputs
 * Screenshots as evidence
 
-## 📊 Assessment Requirement
-
-This repository was created as part of a **15% Lab Exercise Assessment**. It demonstrates practical understanding and implementation of Google Cloud concepts through 25 completed labs.
-
 ## 🚀 Outcome
 
 By completing these labs, I developed a strong foundational understanding of cloud computing and practical experience using Google Cloud services in real-world scenarios.
